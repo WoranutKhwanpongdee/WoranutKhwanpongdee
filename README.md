@@ -6,20 +6,31 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 🌐 Frontend Development
+- HTML / CSS  
 - JavaScript / TypeScript  
-- Python  
-- SQL  
-
-### 🌐 Web Development
-- Next.js  
 - React  
-- Node.js  
+- Next.js  
+- Tailwind CSS  
+
+### ⚙️ Backend Development
+- Next.js (API Routes)  
+- TypeScript  
 
 ### 🗄 Database & Storage
-- PostgreSQL (Prisma)  
-- Neon  
-- Cloudinary  
+- PostgreSQL
+- MySQL
+- Cloudinary
+
+### 🧰 Tools & Platforms
+- Visual Studio Code  
+- Eclipse IDE  
+- Git & GitHub  
+
+### 🎨 Design & Planning
+- Figma  
+- Canva  
+- Draw.io  
 
 ---
 
