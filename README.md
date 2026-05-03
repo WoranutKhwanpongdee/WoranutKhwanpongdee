@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm [Woranut Khwanpongdee]
 
-<!--
-**WoranutKhwanpongdee/WoranutKhwanpongdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Software Engineering student  
+💡 Passionate about Web Development, AI, and building useful applications  
+🚀 Currently working on interesting projects and improving my coding skills  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages
+- JavaScript / TypeScript  
+- Python  
+- SQL  
+
+### 🌐 Web Development
+- Next.js  
+- React  
+- Node.js  
+
+### 🗄 Database & Storage
+- PostgreSQL (Prisma)  
+- Neon  
+- Cloudinary  
+
+---
+
+## 📈 What I'm focusing on
+- Improving full-stack development skills  
+- Learning system design & software architecture  
+- Exploring AI integration in web apps  
+
+---
+
+## 📫 Contact Me
+- Email: woranut.kpd@gmail.com
+- GitHub: https://github.com/WoranutKhwanpongdee
+
+---
+
+✨ *“Keep building, keep learning.”*
