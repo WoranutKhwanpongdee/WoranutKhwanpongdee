@@ -11,7 +11,8 @@
 - JavaScript / TypeScript  
 - React  
 - Next.js  
-- Tailwind CSS  
+- Tailwind CSS
+- Python
 
 ### ⚙️ Backend Development
 - Next.js (API Routes)  
