@@ -8,41 +8,67 @@
 
 ### 💻 Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,java,mysql)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="28"/> Python
+  <img src="https://skillicons.dev/icons?i=ts" width="28"/> TypeScript
+  <img src="https://skillicons.dev/icons?i=js" width="28"/> JavaScript
+  <img src="https://skillicons.dev/icons?i=html" width="28"/> HTML
+  <img src="https://skillicons.dev/icons?i=css" width="28"/> CSS
+  <img src="https://skillicons.dev/icons?i=java" width="28"/> Java
+  <img src="https://skillicons.dev/icons?i=mysql" width="28"/> SQL
+</p>
 
 ### 🌐 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
-
-`TanStack Query`
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="28"/> React
+  <img src="https://skillicons.dev/icons?i=nextjs" width="28"/> Next.js
+  <img src="https://skillicons.dev/icons?i=tailwind" width="28"/> Tailwind CSS
+  <b>TanStack Query</b>
+</p>
 
 ### ⚙️ Backend
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs)](https://skillicons.dev)
-
-`Next.js API Routes` · `REST API`
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="28"/> FastAPI
+  <img src="https://skillicons.dev/icons?i=nodejs" width="28"/> Node.js
+  <b>Next.js API Routes</b>
+  <b>REST API</b>
+</p>
 
 ### 🗄 Database & Storage
 
-[![Database](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
-
-`Cloudinary`
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="28"/> PostgreSQL
+  <img src="https://skillicons.dev/icons?i=mysql" width="28"/> MySQL
+  <b>Cloudinary</b>
+</p>
 
 ### 🤖 AI / ML
 
-[![AI](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
-
-`AI Agents` · `RAG` · `pgvector` · `Prompt Engineering`
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" width="28"/> OpenAI API
+  <b>AI Agents</b>
+  <b>RAG</b>
+  <b>pgvector</b>
+  <b>Prompt Engineering</b>
+</p>
 
 ### 🧰 Tooling
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="28"/> Git
+  <img src="https://skillicons.dev/icons?i=github" width="28"/> GitHub
+  <img src="https://skillicons.dev/icons?i=docker" width="28"/> Docker
+</p>
 
 ### 🎨 Design & Planning
 
-[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-`Canva` · `Draw.io`
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" width="28"/> Figma
+  <b>Canva</b>
+  <b>Draw.io</b>
+</p>
 
 ---
 
