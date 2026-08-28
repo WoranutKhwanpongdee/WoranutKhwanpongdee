@@ -1,51 +1,65 @@
-## Hi there 👋 I'm [Woranut Khwanpongdee]
+# Hi there 👋 I'm Woranut Khwanpongdee
 
-🎓 I'm a Software Engineering student  
-💡 Passionate about Web Development, AI, and building useful applications  
-🚀 Currently working on interesting projects and improving my coding skills  
+🎓 4th-year Software Engineering student at Mae Fah Luang University
+💻 Interested in Software Development, AI Engineering, and AI Solutions
+🚀 I enjoy building things, exploring new technologies, and learning through hands-on projects.
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend Development
-- HTML / CSS  
-- JavaScript / TypeScript  
-- React  
-- Next.js  
-- Tailwind CSS
-- Python
+### 💻 Languages
 
-### ⚙️ Backend Development
-- Next.js (API Routes)  
-- TypeScript  
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,java,mysql)](https://skillicons.dev)
+
+### 🌐 Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+`TanStack Query`
+
+### ⚙️ Backend
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs)](https://skillicons.dev)
+
+`Next.js API Routes` · `REST API`
 
 ### 🗄 Database & Storage
-- PostgreSQL
-- MySQL
-- Cloudinary
 
-### 🧰 Tools & Platforms
-- Visual Studio Code  
-- Eclipse IDE  
-- Git & GitHub  
+[![Database](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
+
+`Cloudinary`
+
+### 🤖 AI / ML
+
+[![AI](https://skillicons.dev/icons?i=openai)](https://skillicons.dev)
+
+`AI Agents` · `RAG` · `pgvector` · `Prompt Engineering`
+
+### 🧰 Tooling
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
 
 ### 🎨 Design & Planning
-- Figma  
-- Canva  
-- Draw.io  
+
+[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+`Canva` · `Draw.io`
 
 ---
 
-## 📈 What I'm focusing on
-- Improving full-stack development skills  
-- Learning system design & software architecture  
-- Exploring AI integration in web apps  
+## 📌 Currently
+
+* Building and improving full-stack web applications
+* Exploring AI Agents and practical AI solutions
+* Learning more about software architecture and system design
+* Looking for opportunities to gain real-world experience
 
 ---
 
-## 📫 Contact Me
-- Email: woranut.kpd@gmail.com
-- GitHub: https://github.com/WoranutKhwanpongdee
+## 📫 Contact
+
+📧 **Email:** [woranut.kpd@gmail.com](mailto:woranut.kpd@gmail.com)
+💼 **GitHub:** [WoranutKhwanpongdee](https://github.com/WoranutKhwanpongdee)
 
 ---
 
-✨ *“Keep building, keep learning.”*
+✨ *Keep building, keep learning.*
