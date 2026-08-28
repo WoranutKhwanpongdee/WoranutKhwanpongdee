@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Woranut Khwanpongdee
 
-🎓 4th-year Software Engineering student at Mae Fah Luang University
-💻 Interested in Software Development, AI Engineering, and AI Solutions
-🚀 I enjoy building things, exploring new technologies, and learning through hands-on projects.
+🎓 **4th-year Software Engineering student** at Mae Fah Luang University
+💻 **Software Development · AI Engineering · AI Solutions**
+🛠️ I enjoy building websites, applications, and AI-powered projects.
+🌱 Always learning, experimenting, and turning ideas into something that works.
+
 
 ## 🛠 Tech Stack
 
