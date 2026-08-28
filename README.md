@@ -6,85 +6,69 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 LANGUAGES
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="28"/> Python
-  <img src="https://skillicons.dev/icons?i=ts" width="28"/> TypeScript
-  <img src="https://skillicons.dev/icons?i=js" width="28"/> JavaScript
-  <img src="https://skillicons.dev/icons?i=html" width="28"/> HTML
-  <img src="https://skillicons.dev/icons?i=css" width="28"/> CSS
-  <img src="https://skillicons.dev/icons?i=java" width="28"/> Java
-  <img src="https://skillicons.dev/icons?i=mysql" width="28"/> SQL
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 FRONTEND
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="28"/> React
-  <img src="https://skillicons.dev/icons?i=nextjs" width="28"/> Next.js
-  <img src="https://skillicons.dev/icons?i=tailwind" width="28"/> Tailwind CSS
-  <b>TanStack Query</b>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ BACKEND
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="28"/> FastAPI
-  <img src="https://skillicons.dev/icons?i=nodejs" width="28"/> Node.js
-  <b>Next.js API Routes</b>
-  <b>REST API</b>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![Next.js API](https://img.shields.io/badge/Next.js_API_Routes-000000?style=flat-square\&logo=next.js\&logoColor=white)
 
-### 🗄 Database & Storage
+### 🗄 DATABASE & STORAGE
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" width="28"/> PostgreSQL
-  <img src="https://skillicons.dev/icons?i=mysql" width="28"/> MySQL
-  <b>Cloudinary</b>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white)
 
 ### 🤖 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" width="28"/> OpenAI API
-  <b>AI Agents</b>
-  <b>RAG</b>
-  <b>pgvector</b>
-  <b>Prompt Engineering</b>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square\&logo=openai\&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
 
-### 🧰 Tooling
+### 🧰 TOOLING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="28"/> Git
-  <img src="https://skillicons.dev/icons?i=github" width="28"/> GitHub
-  <img src="https://skillicons.dev/icons?i=docker" width="28"/> Docker
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 
-### 🎨 Design & Planning
+### 🎨 DESIGN & PLANNING
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" width="28"/> Figma
-  <b>Canva</b>
-  <b>Draw.io</b>
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat-square\&logo=diagrams.net\&logoColor=white)
 
 ---
 
 ## 📌 Currently
 
-* Building and improving full-stack web applications
+* Building full-stack web applications
 * Exploring AI Agents and practical AI solutions
 * Learning more about software architecture and system design
 * Looking for opportunities to gain real-world experience
 
----
-
 ## 📫 Contact
 
 📧 **Email:** [woranut.kpd@gmail.com](mailto:woranut.kpd@gmail.com)
-💼 **GitHub:** [WoranutKhwanpongdee](https://github.com/WoranutKhwanpongdee)
+💼 **GitHub:** https://github.com/WoranutKhwanpongdee
 
 ---
 
