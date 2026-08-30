@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Woranut Khwanpongdee
+<h1 align="center">Hi there 👋 I'm Woranut Khwanpongdee</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing Animation" />
