@@ -54,10 +54,13 @@
 
 ---
 
-## 📊 Coding Activity
+## 📊 Coding Focus & Environment
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoranutKhwanpongdee&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language" />
+  <img src="https://img.shields.io/badge/Secondary_Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Secondary Language" />
+  <img src="https://img.shields.io/badge/Current_Focus-AI_Engineering-412991?style=for-the-badge" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Code_Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code Editor" />
 </p>
 
 ---
