@@ -1,12 +1,8 @@
-<h1 align="center">
-  Hi there 👋, I'm <span style="color: #06B6D4; font-weight: 800;">Woranut Khwanpongdee</span>
-</h1>
+# Hi there 👋 I'm Woranut Khwanpongdee
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=Software+Engineering+Student" alt="Typing Animation" />
 </p>
-
----
 
 🎓 **4th-year Software Engineering student** at Mae Fah Luang University<br>
 💻 **Software Development · AI Engineering · AI Solutions**<br>
