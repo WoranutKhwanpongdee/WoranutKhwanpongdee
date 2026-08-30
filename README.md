@@ -57,12 +57,7 @@
 ## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://wakatime.com/share/@YOUR_WAKATIME_USERNAME/your-badge-id.svg" alt="WakaTime Stats" />
-</p>
-
-*หมายเหตุ: หากยังไม่มี Badge ID จาก WakaTime สามารถใช้ลิงก์แบบทั่วไปแทนได้ดังนี้:*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoranutKhwanpongdee&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
