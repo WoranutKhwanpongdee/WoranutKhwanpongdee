@@ -67,10 +67,11 @@
 
 ## 📫 Contact
 
-📧 **Email:** [woranut.kpd@gmail.com](mailto:woranut.kpd@gmail.com)
-💼 **GitHub:** https://github.com/WoranutKhwanpongdee
+📧 **Email:** [woranut.kpd@gmail.com](mailto:woranut.kpd@gmail.com)<br>
+💼 **GitHub:** https://github.com/WoranutKhwanpongdee<br>
 🌐 **Portfolio:** https://noon-portfolio-sigma.vercel.app/
 
 ---
 
 ✨ *Keep building, keep learning.*
+
