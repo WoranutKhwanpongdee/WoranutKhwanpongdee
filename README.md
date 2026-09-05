@@ -69,7 +69,7 @@
 
 📧 **Email:** [woranut.kpd@gmail.com](mailto:woranut.kpd@gmail.com)<br>
 💼 **GitHub:** https://github.com/WoranutKhwanpongdee<br>
-🌐 **Portfolio:** (https://woranutkhwanpongdeeportfolio.vercel.app/)
+🌐 **Portfolio:** https://woranutkhwanpongdeeportfolio.vercel.app/
 
 ---
 
