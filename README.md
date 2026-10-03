@@ -70,6 +70,18 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WoranutKhwanpongdee&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.net/?user=WoranutKhwanpongdee&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoranutKhwanpongdee&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+---
+
 ### 📌 Currently
 
 * 🚀 Building full-stack web applications
