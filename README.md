@@ -70,7 +70,7 @@
 ### 📌 Currently
 
 * 🚀 Building full-stack web applications
-* 📊 Working with Data Science, AI Agents & RAG solutions
+* 📊 Working with Data Science, AI Agents & AI solutions
 * 🏗️ Learning more about software architecture and system design
 * 💼 Looking for opportunities to gain real-world experience
 
