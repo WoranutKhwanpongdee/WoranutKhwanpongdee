@@ -73,11 +73,7 @@
 ### 📌 Currently
 
 * 🚀 Building full-stack web applications
-<<<<<<< HEAD
-* 🤖 Exploring AI Agents and practical AI solutions
-=======
-* 📊 Working with Data Science, AI Agents & AI solutions
->>>>>>> 1bcc6c5843adae82592c3e1b6431426cf2cc35bb
+* 🤖 Exploring Data Science, AI Agents & AI solutions
 * 🏗️ Learning more about software architecture and system design
 * 💼 Looking for opportunities to gain real-world experience
 
